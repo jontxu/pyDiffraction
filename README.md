@@ -4,9 +4,9 @@ Diffraction pattern graphing scripts, originally made for an Fundamentals of Opt
 
 The scripts are these:
 
-- `diffraction.py`: Single slit diffraction pattern
-- `interference.py`: Double-slit experiment interference pattern
-- `diffractiongrating.py`: Double-slit experiment interference pattern modulated by the diffraction pattern.
+- `singleslitdiffraction.py`: Single slit diffraction pattern
+- `doubleslitinterference.py`: Double-slit experiment interference pattern
+- `doubleslitdiffraction.py`: Double-slit experiment interference pattern modulated by the diffraction pattern.
 
 ##Further reading:
 

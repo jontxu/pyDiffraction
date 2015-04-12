@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
-# diffractiongrating.py
-#     Diffraction grating with two slits
+# doubleslitdiffraction.py
+#     Diffraction + interference pattern for the double-slit experiment
 
 from pylab import *
 from math import *
